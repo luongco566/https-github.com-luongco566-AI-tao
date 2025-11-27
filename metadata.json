@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Visualizer VN",
+  "description": "A glassmorphism-styled application to summarize text and visualize concepts using Gemini 2.5 Flash and D3.js, tailored for Vietnamese users.",
+  "requestFramePermissions": []
+}
